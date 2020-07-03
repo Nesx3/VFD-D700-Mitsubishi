@@ -1,0 +1,4 @@
+Yo ya pude descargar tu repositorio, para completar el ciclo, 
+necesito que este documento lo borres y vuelvas a subir el repositorio 
+actualizado, yo debo poder volver a hacer "pull" y este documento que yo cree
+ya no debe estar.
